@@ -1,0 +1,31 @@
+{
+  "name": "sock-merchant-challenge-day-2",
+  "version": "1.0.0",
+  "description": "devc benin code challenge day 2",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-2.git"
+  },
+  "keywords": [
+    "sock",
+    "merchant",
+    "challenge",
+    "facebook",
+    "devc",
+    "benin-city"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-2/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-2#readme"
+}
